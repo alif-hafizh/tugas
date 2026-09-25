@@ -1,20 +1,6 @@
 <template>
   <div class="page">
 
-    <header class="navbar">
-
-      <h2>SMK YADIKA SOREANG - Onlineshop</h2>
-
-      <nav>
-        <RouterLink to="/">Landing</RouterLink>
-        <RouterLink to="/product">Product</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/contact">Contact</RouterLink>
-      </nav>
-
-    </header>
-
-
     <!-- JUDUL -->
     <section class="title">
 
