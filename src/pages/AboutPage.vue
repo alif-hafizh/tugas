@@ -1,7 +1,6 @@
 <template>
   <div class="page">
 
-    <!-- NAVBAR -->
     <header class="navbar">
 
       <h2>SMK YADIKA SOREANG - Onlineshop</h2>
@@ -16,14 +15,12 @@
     </header>
 
 
-    <!-- JUDUL -->
     <section class="title">
       <h1>Tentang Kami</h1>
       <p>Mengenal lebih dekat Yadika Onlineshop.</p>
     </section>
 
 
-    <!-- CERITA -->
     <section class="story">
 
       <div>

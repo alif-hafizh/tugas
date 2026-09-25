@@ -1,7 +1,6 @@
 <template>
   <div class="page">
 
-    <!-- NAVBAR -->
     <header class="navbar">
 
       <h2>SMK YADIKA SOREANG - Onlineshop</h2>

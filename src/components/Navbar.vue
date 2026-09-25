@@ -30,7 +30,7 @@
 
 .navbar h2 {
   margin: 0;
-  color: #294a91;
+  color: #15ff00;
   font-size: 20px;
 }
 
@@ -40,16 +40,16 @@ nav {
 }
 
 nav a {
-  color: #333;
+  color: #00ff73;
   text-decoration: none;
 }
 
 nav a:hover {
-  color: #405de6;
+  color: #00ff0d;
 }
 
 nav a.router-link-active {
-  color: #405de6;
+  color: #09ff00;
   font-weight: bold;
 }
 
