@@ -33,7 +33,6 @@
     </section>
 
 
-    <!-- TIM -->
     <section class="team">
 
       <h2>Tim Kami</h2>
@@ -42,19 +41,19 @@
 
         <div class="team-card">
           <div class="avatar">A</div>
-          <h3>Ahmad</h3>
+          <h3>slebew</h3>
           <p>Ketua Tim</p>
         </div>
 
         <div class="team-card">
           <div class="avatar">S</div>
-          <h3>Siti</h3>
+          <h3>agus</h3>
           <p>Desain UI</p>
         </div>
 
         <div class="team-card">
           <div class="avatar">R</div>
-          <h3>Rian</h3>
+          <h3>yanto</h3>
           <p>Programmer</p>
         </div>
 
@@ -85,7 +84,6 @@
 }
 
 
-/* NAVBAR */
 
 .navbar {
   max-width: 1100px;
@@ -121,7 +119,6 @@ nav a:hover {
 }
 
 
-/* JUDUL */
 
 .title {
   max-width: 1100px;
@@ -144,7 +141,6 @@ nav a:hover {
 }
 
 
-/* CERITA */
 
 .story {
   max-width: 950px;
@@ -185,7 +181,7 @@ nav a:hover {
 }
 
 
-/* TIM */
+
 
 .team {
   max-width: 1000px;

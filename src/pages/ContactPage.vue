@@ -1,7 +1,7 @@
 <template>
   <div class="page">
 
-    <!-- JUDUL -->
+
     <section class="title">
 
       <h1>Hubungi Kami</h1>
@@ -13,10 +13,9 @@
     </section>
 
 
-    <!-- CONTACT -->
     <section class="contact">
 
-      <!-- INFO -->
+   
       <div class="contact-info">
 
         <h2>Info Kontak</h2>
@@ -28,12 +27,12 @@
 
         <p>
           📞 <strong>Telepon</strong><br>
-          (022) 123-4567
+          (666) 696969696
         </p>
 
         <p>
           ✉️ <strong>Email</strong><br>
-          yadika@smk.sch.id
+          yadika@smk.skull.com
         </p>
 
       </div>
@@ -105,7 +104,7 @@
 }
 
 
-/* NAVBAR */
+
 
 .navbar {
   max-width: 1100px;
@@ -148,7 +147,7 @@ nav a:hover {
 }
 
 
-/* JUDUL */
+
 
 .title {
   max-width: 1100px;
@@ -175,7 +174,6 @@ nav a:hover {
 }
 
 
-/* CONTACT */
 
 .contact {
   max-width: 950px;
@@ -194,7 +192,7 @@ nav a:hover {
 }
 
 
-/* INFO */
+
 
 .contact-info {
   flex: 1;
@@ -215,7 +213,7 @@ nav a:hover {
 }
 
 
-/* FORM */
+
 
 .form-box {
   flex: 1;
@@ -224,11 +222,11 @@ nav a:hover {
 
   background: white;
 
-  /* CLUE */
+
 
   border-radius: 15px;
 
-  /* CLUE */
+
 
   box-shadow: 0 5px 15px rgba(0,0,0,0.08);
 }
@@ -257,7 +255,6 @@ input,
 textarea {
   padding: 12px;
 
-  /* CLUE */
 
   border-radius: 8px;
 
@@ -280,7 +277,6 @@ textarea:focus {
 }
 
 
-/* TOMBOL */
 
 button {
   margin-top: 10px;
@@ -288,8 +284,6 @@ button {
   padding: 12px;
 
   border: none;
-
-  /* CLUE */
 
   border-radius: 999px;
 
@@ -306,9 +300,6 @@ button:hover {
   background: #294a91;
 }
 
-
-/* FOOTER */
-
 footer {
   margin-top: 40px;
 
@@ -321,8 +312,6 @@ footer {
   color: #666;
 }
 
-
-/* HP */
 
 @media (max-width: 700px) {
 
