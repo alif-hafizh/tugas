@@ -1,12 +1,12 @@
 <script setup>
 import ProductCard from '../components/ProductCard.vue'
 const daftarProduk = [
- { id: 1, nama: 'Kaos Sekolah', harga: 75000, gambar:
-'https://placehold.co/150' },
+ { id: 1, nama: 'Seragami Sekolah', harga: 75000, gambar:
+'/foto/seragam.jpg' },
  { id: 2, nama: 'Topi Sekolah', harga: 35000, gambar:
-'https://placehold.co/150' },
+'/foto/topi.jpg' },
  { id: 3, nama: 'Tas Sekolah', harga: 120000, gambar:
-'https://placehold.co/150' },
+'/foto/tas.jpg' },
 ]
 </script>
 <template>
